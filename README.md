@@ -1,2 +1,2 @@
-# MultithreadSort
-Operating System Project
+# Multithread Sort
+
