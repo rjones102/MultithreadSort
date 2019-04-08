@@ -19,3 +19,13 @@ void Sort::MERGESORT() {
 int  Sort::getSize() const {
 	return size;
 }
+
+// implement the merge sort algorithm
+void Sort::mergeSort(char* list, int num) {
+
+}
+
+// merge A and B to C in ascending order
+void Sort::merge(char* A, int N, char* B, int M, char* C) {
+
+}
