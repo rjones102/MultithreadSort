@@ -1,7 +1,6 @@
 #ifndef SORT_H
 #define SORT_H
 
-template <class DataType>
 class Sort {
 public:
 	// Constructor
@@ -10,8 +9,8 @@ public:
 	// Deconstructor
 	~Sort();
 
-	// Manipulation Operation
-	void MERGESORT();		// Calls mergeSort()
+	// Calls mergeSort()
+	void MERGESORT();		
 
 	// Reading data
 	int getSize() const;
